@@ -673,6 +673,9 @@ hr {
 		border: dashed lightgray 2px;
 		border-radius: 25px;	
 	}
+	#keyword-btn{
+		width: auto;
+	}
   } 
  
 @media screen and (max-width: 380px) {
